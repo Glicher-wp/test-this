@@ -36,7 +36,7 @@
                     <div class="col-4" id="p-5">
                     </div>
 
-            <p>О <a href='views/about.html'>реализации</a></p>
+            <p>О <a href='about.html'>реализации</a></p>
                 </div>
     </body>
     <script language="javascript">
